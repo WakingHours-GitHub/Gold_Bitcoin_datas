@@ -3,6 +3,7 @@ The PlosOne data repository, including Gold and Bitcoin price data from 2016 to 
 
 # Citation
 If you find our work helpful for your research, please consider citing:
+```code
 @article{fan2024short,
   title={A short-term price prediction-based trading strategy},
   author={Fan, Weijia and Zhang, Ru and He, Hao and Hou, Siyu and Tan, Yongbo},
@@ -13,3 +14,4 @@ If you find our work helpful for your research, please consider citing:
   year={2024},
   publisher={Public Library of Science San Francisco, CA USA}
 }
+```
