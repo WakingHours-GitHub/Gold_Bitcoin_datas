@@ -1,6 +1,6 @@
 
 # Gold and Bitcoin datas
-The PlosOne data repository, including Gold and Bitcoin price data from 2016 to 2021
+The PlosOne data repository, including Gold and Bitcoin price data from 2016 to 2021. \n 
 The original paper: [A short-term price prediction-based trading strategy](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0294970)
 
 # Citation
